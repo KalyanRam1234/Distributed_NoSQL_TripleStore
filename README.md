@@ -1,5 +1,6 @@
-# NoSQL-Project
-Final project for CS 839 NoSQL Systems course
+# DataSpan - A Distributed Triple Store
+
+Link to report : https://iiitbac-my.sharepoint.com/:b:/g/personal/kalyanram_munagala_iiitb_ac_in/EVr1AFqag_BCnw62zzlWmrYB_m8DJCgR_aHa5rMdzh0HtQ?e=EPOWqP
 
 ## Setting up Databases
 
